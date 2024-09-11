@@ -34,7 +34,7 @@ Sabemos como pode ser desafiador gerenciar múltiplos canais de comunicação. P
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO:
 ```bash
-sudo apt install -y git && git clone https://github.com/plwdesign/instaladorwhatsapsaas-main && sudo chmod -R 777 what-plus && cd what-plus && sudo ./Instalawhaticketplus
+sudo apt install -y git && git clone https://github.com/nereumattar/WhaticketPlusOK.git && sudo chmod -R 777 what-plus && cd what-plus && sudo ./Instalawhaticketplus
 ```
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA ATUALIZAR:
 ```bash
