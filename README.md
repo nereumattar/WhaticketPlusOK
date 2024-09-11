@@ -34,11 +34,12 @@ Sabemos como pode ser desafiador gerenciar múltiplos canais de comunicação. P
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO:
 ```bash
-sudo apt install -y git && git clone https://github.com/nereumattar/WhaticketPlusOK.git && sudo chmod -R 777 what-plus && cd what-plus && sudo ./Instalawhaticketplus
+sudo apt install -y git && git clone https://github.com/nereumattar/WhaticketPlusOK.git && sudo chmod -R 777 WhaticketPlusOK && cd WhaticketPlusOK && sudo ./Instalawhaticketplus
 ```
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA ATUALIZAR:
 ```bash
-sudo chmod -R 777 what-plus && cd what-plus && sudo ./Instalawhaticketplus
+sudo chmod -R 777 WhaticketPlusOK && cd WhaticketPlusOK && sudo ./Instalawhaticketplus
+  
   
 ```
 <br /><br />
